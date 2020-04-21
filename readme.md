@@ -3,6 +3,7 @@
 ### Como rodar?
 
 - docker-compose up
+- abra um browser e acesse localhost:8000
 
 ### Considerações
 
