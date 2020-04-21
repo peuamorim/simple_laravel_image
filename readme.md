@@ -7,5 +7,7 @@
 
 ### Considerações
 
+- No docker-compose.yml, no service "app", eu estou consumindo a imagem que está no dockerhub (que já tem vendors, .env, chaves, etc). 
+
 - Exercício do curso ministrado por Wesley Williams
 - Dockerhub: https://hub.docker.com/u/peuamorim
