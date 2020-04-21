@@ -1,3 +1,4 @@
-## Exercício do curso "Desenvolvimento de Aplicações Modernas e Escaláveis com Microsserviços" ministrado por Wesley Williams
+## Desenvolvimento de Aplicações Modernas e Escaláveis com Microsserviços
 
-## Dockerhub: https://hub.docker.com/u/peuamorim
+- Exercício do curso ministrado por Wesley Williams
+- Dockerhub: https://hub.docker.com/u/peuamorim
